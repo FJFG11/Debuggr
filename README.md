@@ -16,4 +16,5 @@ Debuggr is a simple client/server executor for roblox developers for their games
 2. You can report bugs in the support channel under -> https://discord.gg/AdjBSdXNuV
 3. Check the Issues tab before reporting a bug
 4. Yes the UI is locked behind a whitelist
-5. Yes the Loadstring module was not made by me it was made by **Reinitialized**
+5. Pasting code with comments is no supported and will breake the rich text as of V1.2
+6. Yes the Loadstring module was not made by me it was made by **Reinitialized**
