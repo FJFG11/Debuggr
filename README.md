@@ -13,7 +13,7 @@ Debuggr is a simple client/server executor for roblox developers for their games
 ## FAQ
 
 1. Debuggr will never become a injector for exploits its just a simple debugging UI for roblox developers.
-2. You can report bugs in the support channel under ->** https://discord.gg/2SmMSSkmmv **
+2. You can report bugs in the support channel under -> **https://discord.gg/2SmMSSkmmv**
 3. Check the Issues tab before reporting a bug
 4. Yes the UI is locked behind a whitelist
 5. Pasting code with comments is no supported and will breake the rich text as of V1.2
